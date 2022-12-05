@@ -14,10 +14,9 @@
 
 ## About Myself:
 
-I started my IT career as a system administrator.
+I started my IT career as a network systems administrator.<br/>
 Designed, implemented and maintained corporate network data systems.
-Then I got interested in web development.
-
+Then I got interested in web development.<br/>
 I used to work as a back-end developer, but then I realized that I was more interested
 in front-end development.
 
@@ -69,7 +68,7 @@ const Home = () => {
 ```
 
 ## Work experience:
-In company:
+In a company:
 - Development of a catalog for a website for the sale of real estate
 
   Stack: backend: Yii2 (PHP), frontend: Bootstrap 4
