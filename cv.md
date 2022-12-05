@@ -2,15 +2,12 @@
 
 # Aliaksei Kochatau
 
----
-
 ## Contact information:
 
 **City:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minsk<br/>
 **Phone:** &nbsp;&nbsp;+375 44 728 61 98<br/>
-**E-mail:** &nbsp;&nbsp;7286198@gmail.
+**E-mail:** &nbsp;&nbsp;7286198@gmail.com
 
----
 
 ## About Myself:
 
