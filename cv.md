@@ -68,4 +68,53 @@ const Home = () => {
 
 ```
 
+## Work experience:
+In company:
+- Development of a catalog for a website for the sale of real estate
+
+  Stack: backend: Yii2 (PHP), frontend: Bootstrap 4
+
+  Duration: 4 months
+
+
+- Development of a business website for a company selling fintech products
+
+  Stack: backend: Yii2 (PHP), frontend: Bootstrap 4
+
+  Duration: 5+ months
+
+
+- Development CRM for the gaming platform
+
+  Stack: backend: Laravel (PHP), frontend: React (modules for personal account)
+
+  Duration: 8+ months
+
+Individual:
+
+- several freelance projects (HTML-Css-JS layout, layout React components)
+
+
+## Skills:
+
+- HTML
+- Css + Scss
+- JavaScript
+- React
+- TypeScript (in progress)
+- NodeJS (in progress)
+
+
+## Education and courses:
+
+- Institute of Foreign Languages English Faculty
+- Learning technology center BELHARD - php web development (general course)
+- Learning technology center BELHARD - php web development (advanced course)
+- Independent study of JavaScript
+- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+## Languages:
+
+- Russian - Native
+- English - B2 (Intermediate English)
 
