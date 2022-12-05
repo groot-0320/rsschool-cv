@@ -50,4 +50,22 @@ function eachCons(array, n){
   return res;
 }
 ```
+### from React component:
+
+```
+const Home = () => {
+  return (
+    <div className="wrapper">
+      <h1 style={{margin: '25px 0'}}>Home page</h1>
+       <div className="home">
+         {GAMES.map(game =>
+           <GameItem game={game} key={game.id}/>
+         )}
+       </div>
+    </div>
+  );
+};
+
+```
+
 
